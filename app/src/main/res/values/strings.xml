@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TrailerApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="stringStop">Stop</string>
+    <string name="stringPauseResume">Pause/Resume</string>
+    <string name="stringStart">Start</string>
+    <string name="stringDelete">Delete Me</string>
+    <string name="stringMaxRating">/5</string>
+    <string name="stringRating">Rating:</string>
+    <string name="stringSubmitRating">"Submit New Rating "</string>
+</resources>
